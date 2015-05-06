@@ -1,5 +1,5 @@
 Java GUI program for my father's enterprise.
-The main usage are for retail bill publishing.
-Powered by NetBeans.
+The main usage are for retail bill publishing and storage.
 
-Feel free to explore.
+Each customer gets its cumulative sum of bill amounts.
+
